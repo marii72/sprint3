@@ -1,4 +1,4 @@
-* ⊹₊˚‧︵‿₊୨ NextVolt ୧₊‿︵‧˚₊⊹ *
+ ⊹₊˚‧︵‿₊୨ NextVolt ୧₊‿︵‧˚₊⊹ *
 
 Sistema inteligente de gerenciamento de recarga de veículos elétricos para ambientes comerciais.
 
